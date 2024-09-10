@@ -1,0 +1,11 @@
+com\api\dev\exception\CepInvalidoException.class
+com\api\dev\repository\EnderecoRepository.class
+com\api\dev\service\ViaCepService.class
+com\api\dev\ClienteEnderecoApplication.class
+com\api\dev\entity\Cliente.class
+com\api\dev\dto\ClienteDTO.class
+com\api\dev\repository\ClienteRepository.class
+com\api\dev\controller\ClienteController.class
+com\api\dev\entity\Endereco.class
+com\api\dev\exception\GlobalExceptionHandler.class
+com\api\dev\service\ClienteService.class

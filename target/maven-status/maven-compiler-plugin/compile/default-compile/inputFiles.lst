@@ -1,0 +1,11 @@
+C:\Desenvolvimento\teste-spring\src\main\java\com\api\dev\repository\EnderecoRepository.java
+C:\Desenvolvimento\teste-spring\src\main\java\com\api\dev\entity\Cliente.java
+C:\Desenvolvimento\teste-spring\src\main\java\com\api\dev\exception\GlobalExceptionHandler.java
+C:\Desenvolvimento\teste-spring\src\main\java\com\api\dev\service\ClienteService.java
+C:\Desenvolvimento\teste-spring\src\main\java\com\api\dev\exception\CepInvalidoException.java
+C:\Desenvolvimento\teste-spring\src\main\java\com\api\dev\repository\ClienteRepository.java
+C:\Desenvolvimento\teste-spring\src\main\java\com\api\dev\dto\ClienteDTO.java
+C:\Desenvolvimento\teste-spring\src\main\java\com\api\dev\entity\Endereco.java
+C:\Desenvolvimento\teste-spring\src\main\java\com\api\dev\ClienteEnderecoApplication.java
+C:\Desenvolvimento\teste-spring\src\main\java\com\api\dev\service\ViaCepService.java
+C:\Desenvolvimento\teste-spring\src\main\java\com\api\dev\controller\ClienteController.java
