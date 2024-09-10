@@ -1,5 +1,3 @@
-# Rewriting the content due to code reset and saving the file
-
 # Projeto: API de Cadastro de Clientes
 
 ## Descrição
